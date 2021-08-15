@@ -19,4 +19,6 @@ This project here is just a just a very primitive and simple blockchain test jus
 Here we are building each block Using the index (to get the position of the block in the chain/array), timestamp, data, hash and previous hash.
 
 Note: requires crypto-js from npm
+
+
 ![](output.PNG)
