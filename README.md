@@ -17,4 +17,6 @@ This list of blocks can be seen as simple linked list, in which you have an init
 This project here is just a just a very primitive and simple blockchain test just to show how the chaining and blocks works in blockchain (For sure, in a very high level and not cin omplex way).
 
 Here we are building each block Using the index (to get the position of the block in the chain/array), timestamp, data, hash and previous hash.
+
+Note: requires crypto-js from npm
 ![](output.PNG)
